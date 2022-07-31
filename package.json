@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "drawflow": "^0.0.59",
+    "golang": "^0.1.5-stable",
+    "vue": "^3.2.37"
+  }
+}
